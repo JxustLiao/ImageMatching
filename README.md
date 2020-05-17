@@ -1,10 +1,17 @@
 # -研究任务
 基于图像的房子装修风格与家具风格检索、匹配和推荐算法和软件。我们需要建立家具、房子装修图片的数据集，消化衣服图片检索和推荐的相关算法和论文，撰写家具的算法和论文，并研发出软件
 
-## DeepFashion2数据集 
+## 数据集 
+### DeepFashion2 数据集
 官方数据集链接：http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html  
 百度网盘链接：https://pan.baidu.com/s/1nOngL6P60Pnr00XR4yLRRw  
 提取码：z3hr  
+### DeepFashion 数据集
+百度网盘链接:https://pan.baidu.com/s/1PwJq0U2UPBWKkZvOR2lefQ#list/path=%2F
+
+### indoorCVPR
+百度网盘链接：https://pan.baidu.com/s/1rVCvqJwffu_druubKoiQKA 
+提取码：n83o 
 
 ### 模型：DeepFashion2 - Match R-CNN Banchmarks
 模型链接：https://www.aiuai.cn/aifarm1193.html  
