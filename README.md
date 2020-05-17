@@ -39,10 +39,10 @@ https://mp.weixin.qq.com/s/fiUUkT7hyJwXmAGQ1kMcqQ
 基于外观流的生成模型——ClothFlow，该模型能够合成特定姿态的人物服装图像，以用于基于姿态引导的人物图像生成和虚拟试衣
 链接： https://zhuanlan.zhihu.com/p/89101331
 
-## 基于Resnet+Unet的图像分割模型（by Pytorch）
-博客地址：https://blog.csdn.net/weixin_43842265/article/details/96423588
-Resnet代码：https://github.com/weiaicunzai/pytorch-cifar100/blob/master/models/resnet.py
-Unet代码：https://github.com/usuyama/pytorch-unet/blob/master/pytorch_unet.py
+## 基于Resnet+Unet的图像分割模型（by Pytorch）  
+博客地址：https://blog.csdn.net/weixin_43842265/article/details/96423588  
+Resnet代码：https://github.com/weiaicunzai/pytorch-cifar100/blob/master/models/resnet.py  
+Unet代码：https://github.com/usuyama/pytorch-unet/blob/master/pytorch_unet.py  
 
 ## "笨方法"学习CNN图像识别  
 一、图片预处理  
