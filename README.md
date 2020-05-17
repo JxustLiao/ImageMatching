@@ -25,3 +25,10 @@ https://mp.weixin.qq.com/s/fiUUkT7hyJwXmAGQ1kMcqQ
 ## 论文阅读理解
 论文：DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations  
 链接：https://blog.csdn.net/zziahgf/article/details/78328759
+
+## 一文读懂目标检测：R-CNN、Fast R-CNN、Faster R-CNN、YOLO、SSD  
+链接 ：https://cloud.tencent.com/developer/news/281788
+
+## 基于深度学习的目标检测综述
+论文：Deep Learning for Generic Object Detection: A Survey  
+目标检测：https://github.com/hoya012/deep_learning_object_detection  
