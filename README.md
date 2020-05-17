@@ -44,16 +44,16 @@ https://mp.weixin.qq.com/s/fiUUkT7hyJwXmAGQ1kMcqQ
 Resnet代码：https://github.com/weiaicunzai/pytorch-cifar100/blob/master/models/resnet.py
 Unet代码：https://github.com/usuyama/pytorch-unet/blob/master/pytorch_unet.py
 
-## "笨方法"学习CNN图像识别
-一、图片预处理
-链接：https://finthon.com/learn-cnn-one-preprocess/
-二、tfrecord格式高效读取数据
+## "笨方法"学习CNN图像识别  
+一、图片预处理  
+链接：https://finthon.com/learn-cnn-one-preprocess/  
+二、tfrecord格式高效读取数据  
 链接：https://finthon.com/learn-cnn-two-tfrecord-read-data/
-三、ResNet网络训练及预测
-链接：https://finthon.com/learn-cnn-three-resnet-prediction/
+三、ResNet网络训练及预测  
+链接：https://finthon.com/learn-cnn-three-resnet-prediction/  
 
-## 图像识别项目集合
-链接：https://github.com/StevenLei2017/AI_projects
+## 图像识别项目集合  
+链接：https://github.com/StevenLei2017/AI_projects  
 人工智能图像识别从业人员考核标准  
 目标检测实践_keras版Mask-RCNN训练自己的数据  
 目标检测实践_Keras版YOLOv3训练自己的数据  
