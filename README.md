@@ -23,7 +23,7 @@
 视频链接: https://tv.sohu.com/v/cGwvOTU4ODEzMy8xNTY4MTA1Nzcuc2h0bWw=.html
 
 ### 基于深度学习的目标检测综述
-基于深度学习的目标检测算法近5年发展历史（综述） 
+基于深度学习的目标检测算法近5年发展历史（综述）  
 解析：https://blog.csdn.net/Gentleman_Qin/article/details/84421435  
 论文：Deep Learning for Generic Object Detection: A Survey  
 目标检测：https://github.com/hoya012/deep_learning_object_detection  
