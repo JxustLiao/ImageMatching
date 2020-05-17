@@ -1,8 +1,12 @@
 # -ImageMatching
 基于图像的房子装修风格与家具风格检索、匹配和推荐算法和软件
 
+## 微信「扫一扫识物」 的背后技术揭秘
+https://mp.weixin.qq.com/s/fiUUkT7hyJwXmAGQ1kMcqQ
+
 ## DeepFashion2数据集 
-链接：https://pan.baidu.com/s/1nOngL6P60Pnr00XR4yLRRw  
+官方数据集链接：http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html  
+百度网盘链接：https://pan.baidu.com/s/1nOngL6P60Pnr00XR4yLRRw  
 提取码：z3hr  
 
 ### 模型：DeepFashion2 - Match R-CNN Banchmarks
