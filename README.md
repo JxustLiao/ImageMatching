@@ -9,7 +9,7 @@ https://mp.weixin.qq.com/s/fiUUkT7hyJwXmAGQ1kMcqQ
 百度网盘链接：https://pan.baidu.com/s/1nOngL6P60Pnr00XR4yLRRw  
 提取码：z3hr  
 
-### 模型：DeepFashion2 - Match R-CNN Banchmarks
+## 模型：DeepFashion2 - Match R-CNN Banchmarks
 模型链接：https://www.aiuai.cn/aifarm1193.html  
 代码：https://github.com/switchablenorms/DeepFashion2
 
@@ -34,3 +34,23 @@ https://mp.weixin.qq.com/s/fiUUkT7hyJwXmAGQ1kMcqQ
 解析：https://blog.csdn.net/Gentleman_Qin/article/details/84421435
 论文：Deep Learning for Generic Object Detection: A Survey  
 目标检测：https://github.com/hoya012/deep_learning_object_detection  
+
+## ICCV 2019丨ClothFlow：一种基于外观流的人物服装图像生成模型
+基于外观流的生成模型——ClothFlow，该模型能够合成特定姿态的人物服装图像，以用于基于姿态引导的人物图像生成和虚拟试衣
+链接： https://zhuanlan.zhihu.com/p/89101331
+
+## 基于Resnet+Unet的图像分割模型（by Pytorch）
+博客地址：https://blog.csdn.net/weixin_43842265/article/details/96423588
+Resnet代码：https://github.com/weiaicunzai/pytorch-cifar100/blob/master/models/resnet.py
+Unet代码：https://github.com/usuyama/pytorch-unet/blob/master/pytorch_unet.py
+
+## "笨方法"学习CNN图像识别
+一、图片预处理
+链接：https://finthon.com/learn-cnn-one-preprocess/
+二、tfrecord格式高效读取数据
+链接：https://finthon.com/learn-cnn-two-tfrecord-read-data/
+三、ResNet网络训练及预测
+链接：https://finthon.com/learn-cnn-three-resnet-prediction/
+
+## 图像识别项目集合
+链接：https://github.com/StevenLei2017/AI_projects
