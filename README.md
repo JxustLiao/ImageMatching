@@ -66,6 +66,18 @@ Unet代码：https://github.com/usuyama/pytorch-unet/blob/master/pytorch_unet.py
 ### 视觉智能开放平台【商品理解】【图像识别】【图像分割】
 链接：https://yq.aliyun.com/articles/753802
 
+### Awesome and classical image retrieval papers  
+链接：https://github.com/willard-yuan/awesome-cbir-papers  
+
+## Julian McAuley
+研究方向为数据挖掘、社交网络、推荐系统  
+个人主页：https://cseweb.ucsd.edu/~jmcauley/  
+论文： Learning visual clothing style with heterogeneous dyadic co-occurrences  
+      Image-based recommendations on styles and substitutes
+
+## Efficient Diffusion for Image Retrieval
+链接：https://github.com/fyang93/diffusion
+
 ## 博客好文
 ### 微信「扫一扫识物」 的背后技术揭秘
 链接： https://mp.weixin.qq.com/s/fiUUkT7hyJwXmAGQ1kMcqQ
