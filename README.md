@@ -8,4 +8,4 @@
 
 ### 深度学习顶级算法详解15讲 DeepFashion  
 论文：DeepFashion:Powering Robust Clothes Recognition and Retrieval with Rich Annotations  
-视频链接https://tv.sohu.com/v/cGwvOTU4ODEzMy8xNTY4MTA1Nzcuc2h0bWw=.html
+视频链接: https://tv.sohu.com/v/cGwvOTU4ODEzMy8xNTY4MTA1Nzcuc2h0bWw=.html
