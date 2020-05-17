@@ -65,3 +65,9 @@ Unet代码：https://github.com/usuyama/pytorch-unet/blob/master/pytorch_unet.py
 复写代码_keras版ResNet  
 人脸识别实践_mxnet版insightFace  
 复写代码_pytorch版关键点的目标检测  
+
+## 视觉智能开放平台【商品理解】【图像识别】【图像分割】
+链接：https://yq.aliyun.com/articles/753802
+
+## 论文：Faster R-CNNTowards Real-time Object Detection with Region Rroposal Networks
+代码链接：https://github.com/rbgirshick/py-faster-rcnn
