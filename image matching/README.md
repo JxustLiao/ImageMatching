@@ -21,3 +21,5 @@ Tutorials
 # Julian McAuley
 研究方向为数据挖掘、社交网络、推荐系统  
 个人主页：https://cseweb.ucsd.edu/~jmcauley/  
+论文： Learning visual clothing style with heterogeneous dyadic co-occurrences  
+      Image-based recommendations on styles and substitutes
