@@ -54,3 +54,14 @@ Unet代码：https://github.com/usuyama/pytorch-unet/blob/master/pytorch_unet.py
 
 ## 图像识别项目集合
 链接：https://github.com/StevenLei2017/AI_projects
+人工智能图像识别从业人员考核标准  
+目标检测实践_keras版Mask-RCNN训练自己的数据  
+目标检测实践_Keras版YOLOv3训练自己的数据  
+目标检测实践_keras版RetinaNet训练自己的数据  
+目标检测实践_tensorflow版SSD数据准备  
+目标检测实践_tensorflow版SSD训练自己的数据  
+在谷歌云服务器上搭建深度学习平台  
+视频压缩工具ffmpeg的使用  
+复写代码_keras版ResNet  
+人脸识别实践_mxnet版insightFace  
+复写代码_pytorch版关键点的目标检测  
