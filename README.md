@@ -21,3 +21,7 @@ https://mp.weixin.qq.com/s/fiUUkT7hyJwXmAGQ1kMcqQ
 房屋装修图像库: https://interiornet.org/  
 家具风格资料网站: https://www.justeasy.cn/index.html  
 家具设计：https://www.architonic.com/en  
+
+## 论文阅读理解
+论文：DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations  
+链接：https://blog.csdn.net/zziahgf/article/details/78328759
