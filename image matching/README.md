@@ -23,3 +23,6 @@ Tutorials
 个人主页：https://cseweb.ucsd.edu/~jmcauley/  
 论文： Learning visual clothing style with heterogeneous dyadic co-occurrences  
       Image-based recommendations on styles and substitutes
+
+# Efficient Diffusion for Image Retrieval
+链接：https://github.com/fyang93/diffusion
