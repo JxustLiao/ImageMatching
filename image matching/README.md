@@ -16,3 +16,8 @@ Instance Matching
 Semantic Matching  
 Image Identification  
 Tutorials  
+
+
+# Julian McAuley
+研究方向为数据挖掘、社交网络、推荐系统  
+个人主页：https://cseweb.ucsd.edu/~jmcauley/  
