@@ -30,5 +30,7 @@ https://mp.weixin.qq.com/s/fiUUkT7hyJwXmAGQ1kMcqQ
 链接 ：https://cloud.tencent.com/developer/news/281788
 
 ## 基于深度学习的目标检测综述
+基于深度学习的目标检测算法近5年发展历史（综述）
+解析：https://blog.csdn.net/Gentleman_Qin/article/details/84421435
 论文：Deep Learning for Generic Object Detection: A Survey  
 目标检测：https://github.com/hoya012/deep_learning_object_detection  
