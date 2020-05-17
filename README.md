@@ -10,7 +10,7 @@
 百度网盘链接:https://pan.baidu.com/s/1PwJq0U2UPBWKkZvOR2lefQ#list/path=%2F
 
 ### indoorCVPR
-百度网盘链接：https://pan.baidu.com/s/1rVCvqJwffu_druubKoiQKA 
+百度网盘链接：https://pan.baidu.com/s/1rVCvqJwffu_druubKoiQKA  
 提取码：n83o 
 
 ### 模型：DeepFashion2 - Match R-CNN Banchmarks
