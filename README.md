@@ -94,3 +94,5 @@ Unet代码：https://github.com/usuyama/pytorch-unet/blob/master/pytorch_unet.py
 房屋装修图像库: https://interiornet.org/  
 家具风格资料网站: https://www.justeasy.cn/index.html  
 家具设计：https://www.architonic.com/en 
+数据集下载：https://drive.google.com/drive/folders/1bAyIR3KvCbkhinDRHX2xeWgT3F_VSLAq 
+https://drive.google.com/drive/folders/1bAyIR3KvCbkhinDRHX2xeWgT3F_VSLAq?usp=sharing  
