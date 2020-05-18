@@ -4,8 +4,8 @@
 ## 数据集 
 ### DeepFashion2 数据集
 官方数据集链接：http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html  
-百度网盘链接：https://pan.baidu.com/s/1nOngL6P60Pnr00XR4yLRRw  
-提取码：z3hr  
+百度网盘链接：https://pan.baidu.com/share/init?surl=0JbhV597wGhDOT5EWPTkhA
+提取码：td88  
 ### DeepFashion 数据集
 百度网盘链接:https://pan.baidu.com/s/1PwJq0U2UPBWKkZvOR2lefQ#list/path=%2F
 
