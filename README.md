@@ -9,7 +9,7 @@
 ### DeepFashion 数据集
 百度网盘链接:https://pan.baidu.com/s/1PwJq0U2UPBWKkZvOR2lefQ#list/path=%2F
 
-### interiornet数据集
+### InteriorNet的室内场景数据集
 https://pan.baidu.com/s/14Lb8cujpSpSVU-OHr4xkRg#list/path=%2F&parentPath=%2F  
 https://pan.baidu.com/s/1Sr6FyJ-_-nV4ChlJH5UXgA#list/path=%2F&parentPath=%2Fsharelink3644820605-54862681532526  
 https://pan.baidu.com/s/1IqPg468fVi3rK1_Cw0B5fg#list/path=%2F&parentPath=%2Fsharelink3644820605-991684324293489  
