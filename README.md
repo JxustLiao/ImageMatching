@@ -19,11 +19,24 @@ https://pan.baidu.com/s/1IqPg468fVi3rK1_Cw0B5fg#list/path=%2F&parentPath=%2Fshar
 提取码：n83o 
 
 ### 3D FUTURE
-File,Size,MD5,Area,Link   
-retrieval_train.zip,9.38G,6969c05015b18279c6acc0be969dac98,China,   
-http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231789/retrieval_train.zip  
-retrieval_validation.zip,1.34G,88718aacdc1a8889715c31c60d6680aa,China,  
-http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231789/retrieval_validation.zip  
+基于图像的3D检索  
+训练集：http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231789/retrieval_train.zip  
+验证集：http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231789/retrieval_validation.zip  
+
+基于单张图像的三维重建  
+http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231788/reconstruction_train.zip
+http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231788/reconstruction_validation.zip
+
+实例分割  
+训练集图像：http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231787/train-image.zip  
+训练集模型：http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231787/train-model.zip  
+训练集结构：http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231787/train-texture.zip  
+http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231787/devkit.zip  
+验证集：http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231787/val.zip  
+
+
+### 3D-FUTURE代码分析
+https://github.com/FUTURE-3D  
 
 ### 模型：DeepFashion2 - Match R-CNN Banchmarks
 模型链接：https://www.aiuai.cn/aifarm1193.html  
