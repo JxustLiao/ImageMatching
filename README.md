@@ -24,8 +24,8 @@ https://pan.baidu.com/s/1IqPg468fVi3rK1_Cw0B5fg#list/path=%2F&parentPath=%2Fshar
 验证集：http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231789/retrieval_validation.zip  
 
 基于单张图像的三维重建  
-http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231788/reconstruction_train.zip
-http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231788/reconstruction_validation.zip
+训练集：http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231788/reconstruction_train.zip  
+验证集：http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231788/reconstruction_validation.zip  
 
 实例分割  
 训练集图像：http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231787/train-image.zip  
