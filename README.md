@@ -18,6 +18,13 @@ https://pan.baidu.com/s/1IqPg468fVi3rK1_Cw0B5fg#list/path=%2F&parentPath=%2Fshar
 百度网盘链接：https://pan.baidu.com/s/1rVCvqJwffu_druubKoiQKA  
 提取码：n83o 
 
+### 3D FUTURE
+File,Size,MD5,Area,Link   
+retrieval_train.zip,9.38G,6969c05015b18279c6acc0be969dac98,China,   
+http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231789/retrieval_train.zip  
+retrieval_validation.zip,1.34G,88718aacdc1a8889715c31c60d6680aa,China,  
+http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231789/retrieval_validation.zip  
+
 ### 模型：DeepFashion2 - Match R-CNN Banchmarks
 模型链接：https://www.aiuai.cn/aifarm1193.html  
 代码：https://github.com/switchablenorms/DeepFashion2
