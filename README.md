@@ -31,7 +31,7 @@ https://pan.baidu.com/s/1IqPg468fVi3rK1_Cw0B5fg#list/path=%2F&parentPath=%2Fshar
 训练集图像：http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231787/train-image.zip  
 训练集模型：http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231787/train-model.zip  
 训练集结构：http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231787/train-texture.zip  
-devkit集：http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231787/devkit.zip  
+devkit：http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231787/devkit.zip  
 验证集：http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231787/val.zip  
 
 
