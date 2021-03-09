@@ -1,0 +1,103 @@
+人工智能本科4年课程清单
+第1年，打基础
+假设你没有CS的经验，这一年的大部分时间应该用在CS和机器学习的核心概念和算法上，推荐的课程有：
+1.编程基础
+这是AI从业人员必需具备的软件工程学的基本技能。
+•	课程为CS106B：http://web.stanford.edu/class/cs106b/
+•	课程链接：https://www.bilibili.com/video/BV1G7411k7jG?from=search&seid=12087782436586326484
+
+2.计算机系统
+这门课的重点在于计算机的基础设计和构建，尤其是学习软件编译的时候，运行一个程序会发生什么，以及程序是如何在内存中运行的。
+•	课程为CS107：http://web.stanford.edu/class/cs107/
+•	课程链接：https://www.bilibili.com/video/BV1ua4y1a72K?from=search&seid=6072529476047050814
+•	
+3.算法概论
+这门课包含了计算机算法背后的数学和理论基础，比如最优搜索算法和动态编程，以及如何分析这些算法的内存和优缺点。
+•	课程为CS161：http://web.stanford.edu/class/cs161/
+•	课程链接：https://www.bilibili.com/video/BV1Ca4y177UH?from=search&seid=7015652271411818980
+•	
+4.概率论
+概率论和统计学是机器学习算法中的核心，尤其是分析数据在实战里很重要。
+•	课程为CS109：http://web.stanford.edu/class/cs109/
+•	课程链接：https://www.bilibili.com/video/BV1da411c7C8?from=search&seid=9346624943515973160
+•	
+5.线性代数
+如何计算矩阵和向量，线性方程组，最小二乘法，这些都是机器学习需要用到的数学基础。
+•	课程为EE103：http://web.stanford.edu/class/ee103/
+•	课程链接：https://www.bilibili.com/video/BV1ix411f7Yp?from=search&seid=15245425843135059580
+•	
+6.多维微积分
+调试函数的梯度，反向传播以及机器学习，这些都是经常用到的。
+•	课程为向量微积分（工程师）：https://www.coursera.org/learn/vector-calculus-engineers
+•	课程链接：https://www.bilibili.com/video/BV1xV411a7C5?from=search&seid=5913458000683010
+
+第2年，慢慢探索
+AI本科的第二年，至少要明白人工智能的一些原理，应该用什么样的理论去解决问题，还需要加强对计算机系统运行的理解。
+1.人工智能概论
+这门课包括了人工智能领域所运用的研究，比如搜索，游戏，逻辑以及图像还有机器学习算法的应用。
+•	课程CS221：https://stanford-cs221.github.io/spring2020/
+•	课程链接：https://www.bilibili.com/video/BV16E411J7AQ?from=search&seid=12021196696922374672
+•	
+2.编译原理
+主要是讲编译器背后的设计和理论，你学了之后，至少应该了解一个编译器是如何构建的，还有编译器的模块化组件，也需要了解。如果你对语义识别感兴趣，可以好好琢磨一下编译器的设计和传统的自然语言处理堆栈之间的相似之处，非常有趣。
+•	课程CS143：http://web.stanford.edu/class/cs143/
+•	课程链接：https://www.bilibili.com/video/BV17K4y147Bz?from=search&seid=14298341465868286197
+•	
+3.数据库原理
+主要讲数据库管理系统背后的原则，比如关系数据模型、索引、模式等主题，但凡你想成为数据专家或者机器学习工程师，就必须要懂得数据库的原理。
+•	课程CS145：https://cs145-fa19.github.io/
+•	课程链接：https://www.bilibili.com/video/BV1oW411E7r5?from=search&seid=8109443148904588636
+•	
+4.并行计算
+并行计算这门课会讲Apache Spark到GPU这些系统背后的原理，
+•	课程CS149：http://cs149.stanford.edu/fall19/
+•	课程链接：https://www.bilibili.com/video/BV16k4y1z7z9?from=search&seid=5837511976093431951
+•	
+5.操作系统
+你如果想要擅长系统编程，就一定要上这门课，这门课是讲如何从头开始搭建一个操作系统，不仅需要设计系统，还需要明白如何调试和代码管理。如果你不明白，你手下的人敲完：sudo rm -rf /*就撤了，你该如何拯救你的代码？
+•	课程CS140：http://web.stanford.edu/~ouster/cgi-bin/cs140
+•	课程链接：https://www.bilibili.com/video/BV1Dy4y1m7ZE?from=search&seid=10296274545667986377
+•	
+第3年，开启提升课程
+这个时候应该开始学高级课程，开始NLP，BA，CV这些方向的研究
+1.机器学习
+监督学习和模型训练的概念，比如偏差、方差，正则化以及模型选择，这些内容看上去简单，实际上每个AI从业者天天都在用的。
+•	课程CS229：http://cs229.stanford.edu/
+•	课程链接：https://www.bilibili.com/video/BV1iK411W7p9?from=search&seid=9331154800090711653
+•	
+2.凸优化
+这门课运用很广，比如统计学，机器学习，信号处理和其它使用凸优化的领域，虽然现在有不少问题都是非凸化的，但是你最好还是要懂背后的逻辑。
+•	课程EE364A：http://web.stanford.edu/class/ee364a/
+•	课程链接：https://www.bilibili.com/video/BV1aD4y1Q7aW?from=search&seid=9527725484570709837
+•	
+3.概率图模型
+像CV和NLP就会经常用到，所以还是需要了解。
+•	课程CS228：https://cs.stanford.edu/~ermon/cs228/index.html
+•	课程链接：https://www.bilibili.com/video/BV1X441127w7?from=search&seid=16777712796338097753
+•	
+4.数据挖掘
+大数据与数据挖掘，这门课涵盖了处理大型数据集的技术方法，会运用到推荐算法、聚类以及大规模的数据集计算与分析，要知道每天产生的数量还是比较大的。
+•	课程CS246：http://web.stanford.edu/class/cs246/
+•	课程链接：https://www.bilibili.com/video/BV1SC4y187x1?from=search&seid=7792605917041483461
+•	
+5.NLP
+自然语言处理，让机器懂得文本数据的理论和时间，而且还会在这门课里学到传统自然语言处理，老师会教如何用深度学习技术来处理这些。
+•	课程CS224N：http://web.stanford.edu/class/cs224n/
+•	课程链接：https://www.bilibili.com/video/BV1pt411h7aT?from=search&seid=13291838727149529156
+•	
+6.基于CV的卷积神经网络
+基本包含了深度学习背后的理论，比如CV模型就经常运用，只要学过人工智能课程的人，没错，是来自李飞飞教授的CS231N吧。
+•	课程CS231N：http://cs231n.stanford.edu/
+•	课程链接：https://www.bilibili.com/video/BV1TJ411d7b7?from=search&seid=9714597367358395672
+•	
+第4年，开始打比赛
+经过前面3年课程的训练，你应该对计算机系统和人工智能概念、应用有了清楚的理解，找到你比较感兴趣的方向，拿起数据集，就要开始自己跑模型，做数据分析，调参还有解决Bug。想要成为一个真正的人工智能专家，不仅得学，还得上手练。
+1.做研究项目
+有的学校会提供这类课程，在这门课里，你需要深入研究整个项目的情况。
+•	课程CS341：http://web.stanford.edu/class/cs341/
+•	课程链接：https://www.bilibili.com/video/BV1CE411f7PT?from=search&seid=5220582252246904725
+•	
+2.参加课题研究
+主动去找研究生学长学姐，做他们的助理，将基础知识再过一遍，也可以选择自己开一个课题项目，进行研究，主要是让你有一个项目经验。
+3.大厂实习
+如果你要是时间管理的好，可以考虑在课余时间去AI公司实习，一般大厂都有这种3-6个月的实习机会，在实习里，不仅让你了解书本上的基础知识，还能使用基础知识进行落地的运用，这种应该算比较好的实战机会了。
