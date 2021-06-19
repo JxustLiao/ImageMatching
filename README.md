@@ -1,4 +1,4 @@
-# -研究任务
+# 研究任务
 基于图像的房子装修风格与家具风格检索、匹配和推荐算法和软件。我们需要建立家具、房子装修图片的数据集，消化衣服图片检索和推荐的相关算法和论文，撰写家具的算法和论文，并研发出软件
 
 ## 数据集 
@@ -83,7 +83,7 @@ Unet代码：https://github.com/usuyama/pytorch-unet/blob/master/pytorch_unet.py
 
 ### 图像识别项目集合  
 链接：https://github.com/StevenLei2017/AI_projects  
-人工智能图像识别从业人员考核标准  
+人工智能图像识别从业人员考核标准 
 目标检测实践_keras版Mask-RCNN训练自己的数据  
 目标检测实践_Keras版YOLOv3训练自己的数据  
 目标检测实践_keras版RetinaNet训练自己的数据  
